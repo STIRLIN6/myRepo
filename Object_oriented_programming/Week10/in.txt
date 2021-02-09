@@ -1,0 +1,4 @@
+Aron    2   3   5   5
+Bela    1   1   1   1   1   1
+Cili    5   5   4
+Dani    5   4   5   5

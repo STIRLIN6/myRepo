@@ -1,0 +1,3 @@
+Andras  nyul 1 medve 300
+Andras  nyul 3 szarvas 300
+Bela	medve 259

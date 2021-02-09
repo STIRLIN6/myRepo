@@ -1,0 +1,3 @@
+Aladar  Monitor 150000   Processzor  45000
+Bela    Prebuilt    250000
+Ciprian Eger 20000 Billentyuzet 20000

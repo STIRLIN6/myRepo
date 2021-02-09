@@ -1,0 +1,10 @@
+DIR root
+DIR home
+FILE teszt_file 42
+FILE teszt_file_2 88
+
+DIR dev
+FILE null 0
+FILE teszt_file_3 150
+
+

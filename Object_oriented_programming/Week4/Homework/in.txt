@@ -1,0 +1,5 @@
+BillGates                  1001001
+StirlingAndras             3001003
+Khoamester                 5001005
+CukorhegyiMark             2001002
+StirlingUrSvájcifolyószáml 4001004

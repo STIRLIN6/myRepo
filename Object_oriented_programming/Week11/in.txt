@@ -1,0 +1,7 @@
+Camp_nou    60000
+Camp_nou    65789
+Camp_nou    15497
+Pancho_arena    10000000
+Pancho_arena    25897563
+Wembley     500
+Wembley     1759
