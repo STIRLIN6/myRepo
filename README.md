@@ -5,7 +5,7 @@ This is my public repository for my university tasks.
 The C++ applications were made in Qt Creator, and the C# applications were made in Visual Studio. I used Model-view and Model-view-viewmodel architecture patterns.
 
 ## Functional programming
-Some simple Haskell code, and an interesting solve for the 8 queen problem.
+Some simple Haskell code, and an interesting solution to the 8 queen problem.
 
 ## Object-oriented programming
 Implementations for the basics of classes, objects and enumerators. We also used a class template library.
